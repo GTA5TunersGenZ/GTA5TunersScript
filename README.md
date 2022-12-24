@@ -1,4 +1,4 @@
-# GTA5TunersScript
+# GTA5TunersScript (Current 3.4p2 CT Version)
 
 This repository will be used to distribute/share code and ideas for GTA5TunersGenZ script which started on unknowncheats.me years ago.
 
