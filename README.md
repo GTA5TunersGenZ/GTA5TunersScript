@@ -2,8 +2,8 @@
 
 <h5>[==============================(READ FIRST)=================================]<br><br><br>
 
-This open source script version is not as updated as our Discord Version, our Discord Version has way more features and optimization.<b5>
-You can find our discord version on Youtube by searching for tag @gta5tuners. There will be a link somewhere one of the videos.<br><br>
+This open source script version is not as updated as our Discord Version, our Discord Version has way more features and optimizations.<b5>
+You can find our discord version on Youtube by searching for tag @gta5tuners. There will be a link somewhere in one of the videos.<br><br>
 
 [===========================(MISSION STATEMENT)=============================]<br><br>
 
@@ -44,7 +44,7 @@ This repository was created for contributors, programmers and users to be able t
 
 [=============================(CHANGE LOG)==================================]<br><br>
 
-[More change log information can be found at the "Original Link Location:" location listed above]<br><br>
+[More change log information can be found at the "Original Link Location:" location listed above.]<br><br>
 
 - (v3.5) Added temporary remote protection patch that's been bricking people's accounts. Google Tez2 remote exploit for more information.<br>
 - (v3.5) Playerslist backend majorly modified to fix multiple issues and increase speed.<br>
