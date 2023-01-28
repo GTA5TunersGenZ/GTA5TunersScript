@@ -1,6 +1,6 @@
 ![coollogo_com-86001204](https://user-images.githubusercontent.com/121238089/215266662-298b1de1-e38d-4a27-9e22-4cd2bce23735.png)
 
-[===============================(READ FIRST)==================================]
+<h3>[===============================(READ FIRST)==================================]</h3>
 
 This open source script version is not as updated as our Discord Version, our Discord Version has way more features and optimization.
 
@@ -21,8 +21,8 @@ This repository was created for contributors, programmers and users to be able t
 
 [===============================(INSTRUCTIONS)================================]
 
-<h5>[The version that works best for this script is 7.2 which is linked below.]</h5>
-<h5>[https://web.archive.org/web/20201105113906/https://github.com/cheat-engine/cheat-engine/releases/download/7.2/CheatEngine72.exe]</h5>
+<h4>[The version that works best for this script is 7.2 which is linked below.]</h4>
+<h4>[https://web.archive.org/web/20201105113906/https://github.com/cheat-engine/cheat-engine/releases/download/7.2/CheatEngine72.exe]</h4>
 
 1. Download cheat engine from https://www.cheatengine.org/downloads.php or get 7.2 in web archive link above.
 2. Download the .CT file and put it into it's own directory, not in "Downloads".
