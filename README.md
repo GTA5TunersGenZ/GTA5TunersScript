@@ -16,13 +16,13 @@ This repository was created for contributors, programmers and users to be able t
 
 [The version that works best for this script is 7.2 which has been uploaded above.]
 
-1. Download cheat engine from https://www.cheatengine.org/downloads.php
+1. Download cheat engine from https://www.cheatengine.org/downloads.php 7.2 works best download above.
 2. Download the .CT file and put it into it's own directory, not in "Downloads".
 3. Double click the *.CT after installing "Cheat Engine" then run GTA5.
 
 [=======================================(Change Log)========================================]
 
-More change log information can be found at the "Original Link Location:" location listed above.
+[More change log information can be found at the "Original Link Location:" location listed above.]
 
 - (v3.5) Added temporary remote protection patch that's been bricking people's accounts. Google Tez2 remote exploit for more information.
 - (v3.5) Playerslist backend majorly modified to fix multiple issues and increase speed.
