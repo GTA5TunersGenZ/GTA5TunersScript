@@ -2,7 +2,7 @@
 -
 <h5>[==============================(READ FIRST)=================================]<br><br><br>
 
-This open source script version is not as updated as our Discord Version, our Discord Version has way more features and optimizations.<br>
+This open source GTA5 modmenu script version is not as updated as our Discord Version, our Discord Version has way more features and optimizations.<br>
 You can find our discord version on Youtube by searching for tag @gta5tuners. There will be a link somewhere in one of the videos.<br><br>
 
  [===========================(MISSION STATEMENT)=============================]<br><br>
@@ -22,7 +22,7 @@ This repository was created for contributors, programmers and users to be able t
 [The version that works best for this script is 7.2 which is linked below.]<br>
 [https://web.archive.org/web/20201105113906/https://github.com/cheat-engine/cheat-engine/releases/download/7.2/CheatEngine72.exe]
 
-[1. Download cheat engine from https://www.cheatengine.org/downloads.php or get 7.2 in web archive link above.]<br>
+[1. Download Cheat Engine from https://www.cheatengine.org/downloads.php or get 7.2 in web archive link above.]<br>
 [2. Download the .CT file and put it into it's own directory, not in "Downloads".]<br>
 [3. Double click the *.CT after installing "Cheat Engine" then run GTA5.]<br><br>
 
@@ -54,3 +54,5 @@ This repository was created for contributors, programmers and users to be able t
 - (v3.4) DMkiller added "Online Time Settings" and MoHieDDiNNE updated a "Refill Ammo" function provided by MoHieDDiNNE.<br>
 - (v3.4) More offsets added for Weapons, Vehicles, Vehicle Weapons and Stone Hatchet added.<br>
 - (v3.4) Playerslist updated for speed and to display safe money and added addtional buttons and features for ease of use.</h5>
+
+<p style="font-size: 4px;">earch terms: GTA GTA5 GTA5 modmenu modding</p>
