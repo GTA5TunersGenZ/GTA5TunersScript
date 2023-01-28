@@ -29,7 +29,7 @@ This repository was created for contributors, programmers and users to be able t
 
 [=================================(CREDITS)==================================]
 
-GassyNull aka GNull, MoHieDDiNNE, DMkiller, BigBadWolfx77, VemomKY, Vladi023, Shirabrixx82, AureIn, booka7, hernaus, GTXFuryNano, dctrwhy and all others who contributed on unknowncheats.me website.
+GassyNull aka GNull, <br>MoHieDDiNNE, DMkiller, BigBadWolfx77, VemomKY, Vladi023, Shirabrixx82, AureIn, booka7, hernaus, GTXFuryNano, dctrwhy and all others who contributed on unknowncheats.me website.
 
 [===============================(CHANGE LOG)=================================]
 
