@@ -8,6 +8,7 @@ This repository was created for contributors, programmers and users to be able t
 ** This open source script version that is not as updated as our Discord version, our discord version has way more features and optimization.**
 ** You can find our discord version on Youtube by searching for tag @gta5tuners. There will be a link somewhere one of the videos. **
 
+
 ![35ct pic](https://user-images.githubusercontent.com/121238089/215264871-87de5b65-d15d-4197-86a8-6e6ef0ab3f61.PNG)
 
 [=================================================(Instructions)===================================================]
