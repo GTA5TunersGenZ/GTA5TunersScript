@@ -2,7 +2,8 @@
 -
 <h5>[==============================(READ FIRST)=================================]<br><br><br>
 
-This open source GTA 5 modmenu script version is not as updated as our Discord Version, our Discord Version has way more features and optimizations.<br>
+This open source GTA 5 modmenu script version is not as updated as our Discord Version.<br>
+Our Discord Version has way more features and optimizations!<br>
 You can find our discord version on Youtube by searching for tag @gta5tuners. There will be a link somewhere in one of the videos.<br><br>
 
  [===========================(MISSION STATEMENT)=============================]<br><br>
@@ -55,4 +56,4 @@ This repository was created for contributors, programmers and users to be able t
 - (v3.4) More offsets added for Weapons, Vehicles, Vehicle Weapons and Stone Hatchet added.<br>
 - (v3.4) Playerslist updated for speed and to display safe money and added addtional buttons and features for ease of use.</h5>
 
-<H6>Search terms: GTA GTAV GTA5 modmenu modding</H6>
+<H6>Search terms: GTA GTAV GTA5 modmenu modding mod mods</H6>
