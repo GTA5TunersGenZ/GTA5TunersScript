@@ -11,7 +11,7 @@ Original Link Location:<br>
 (https://www.unknowncheats.me/forum/grand-theft-auto-v/474288-gtatunersscriptgenz-3-0-1-57-final-cut.html#post3273389)
 
 This repository will be used to distribute/share code and ideas for GTA5TunersGenZ script which started on unknowncheats.me years ago.
-This repository was created for contributors, programmers and users to be able to make changes, fixes, improvements & updates as needed.
+This repository was created for contributors, programmers and users to be able to make changes, fixes, improvements & updates as needed.<br><br>
 
 [===================(GTA5TunersGenZ Script (CURRENT CT VERSION: 3.5)==================]<br><br>
 
