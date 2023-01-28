@@ -1,12 +1,12 @@
 ![coollogo_com-86001204](https://user-images.githubusercontent.com/121238089/215266662-298b1de1-e38d-4a27-9e22-4cd2bce23735.png)
 
-[====================================(READ FIRST)======================================]
+[=================================(READ FIRST)===================================]
 
 This open source script version is not as updated as our Discord Version, our Discord Version has way more features and optimization.
 
 You can find our discord version on Youtube by searching for tag @gta5tuners. There will be a link somewhere one of the videos.
 
-[=================================(MISSION STATEMENT)===================================]
+[==============================(MISSION STATEMENT)================================]
 
 Original Link Location: 
 
@@ -15,11 +15,11 @@ Original Link Location:
 This repository will be used to distribute/share code and ideas for GTA5TunersGenZ script which started on unknowncheats.me years ago.
 This repository was created for contributors, programmers and users to be able to make changes, fixes, improvements & updates as needed.
 
-[=========================(GTA5TunersGenZ Script (CURRENT CT VERSION: 3.5)========================]
+[======================(GTA5TunersGenZ Script (CURRENT CT VERSION: 3.5)=====================]
 
 ![35ct pic](https://user-images.githubusercontent.com/121238089/215264871-87de5b65-d15d-4197-86a8-6e6ef0ab3f61.PNG)
 
-[====================================(Instructions)=====================================]
+[=================================(Instructions)==================================]
 
 [The version that works best for this script is 7.2 which has been uploaded above.]
 
@@ -27,7 +27,7 @@ This repository was created for contributors, programmers and users to be able t
 2. Download the .CT file and put it into it's own directory, not in "Downloads".
 3. Double click the *.CT after installing "Cheat Engine" then run GTA5.
 
-[====================================(Change Log)=====================================]
+[=================================(Change Log)==================================]
 
 [More change log information can be found at the "Original Link Location:" location listed above.]
 
