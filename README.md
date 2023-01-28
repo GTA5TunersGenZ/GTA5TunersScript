@@ -5,7 +5,7 @@
 This open source script version is not as updated as our Discord Version, our Discord Version has way more features and optimizations.<br>
 You can find our discord version on Youtube by searching for tag @gta5tuners. There will be a link somewhere in one of the videos.<br><br>
 
-[===========================(MISSION STATEMENT)=============================]<br><br>
+ [===========================(MISSION STATEMENT)=============================]<br><br>
 
 Original Link Location:<br>
 (https://www.unknowncheats.me/forum/grand-theft-auto-v/474288-gtatunersscriptgenz-3-0-1-57-final-cut.html#post3273389)
