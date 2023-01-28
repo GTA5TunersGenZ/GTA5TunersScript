@@ -8,9 +8,8 @@ You can find our discord version on Youtube by searching for tag @gta5tuners. Th
 
 <h5>[===========================(MISSION STATEMENT)=============================]</h5>
 
-<h5>Original Link Location:</h5>
-
-(https://www.unknowncheats.me/forum/grand-theft-auto-v/474288-gtatunersscriptgenz-3-0-1-57-final-cut.html#post3273389)
+<h5>Original Link Location:<br>
+(https://www.unknowncheats.me/forum/grand-theft-auto-v/474288-gtatunersscriptgenz-3-0-1-57-final-cut.html#post3273389)</h5>
 
 <h5>This repository will be used to distribute/share code and ideas for GTA5TunersGenZ script which started on unknowncheats.me years ago.
 This repository was created for contributors, programmers and users to be able to make changes, fixes, improvements & updates as needed.</h5>
