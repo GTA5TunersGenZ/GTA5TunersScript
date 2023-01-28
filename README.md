@@ -28,7 +28,7 @@ This repository was created for contributors, programmers and users to be able t
 2. Download the .CT file and put it into it's own directory, not in "Downloads".
 3. Double click the *.CT after installing "Cheat Engine" then run GTA5.
 
-<h4>[================================(CREDITS)=================================]</h4>
+<h4>[===============================(CREDITS)==================================]</h4>
 
 - GassyNull aka GNull (main)
 - MoHieDDiNNE (main)
@@ -44,7 +44,7 @@ This repository was created for contributors, programmers and users to be able t
 - dctrwhy (original)
 - And all others who help to contribute on unknowncheats.me website!
 
-<h4>[==============================(CHANGE LOG)=================================]</h4>
+<h4>[=============================(CHANGE LOG)==================================]</h4>
 
 [More change log information can be found at the "Original Link Location:" location listed above]
 
