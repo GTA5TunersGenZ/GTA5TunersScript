@@ -3,7 +3,7 @@
 <h5>[==============================(READ FIRST)=================================]<br><br>
 
 This open source script version is not as updated as our Discord Version, our Discord Version has way more features and optimization.<b5>
-You can find our discord version on Youtube by searching for tag @gta5tuners. There will be a link somewhere one of the videos.
+You can find our discord version on Youtube by searching for tag @gta5tuners. There will be a link somewhere one of the videos.<br>
 
 [===========================(MISSION STATEMENT)=============================]
 
@@ -13,7 +13,7 @@ Original Link Location:<br>
 This repository will be used to distribute/share code and ideas for GTA5TunersGenZ script which started on unknowncheats.me years ago.
 This repository was created for contributors, programmers and users to be able to make changes, fixes, improvements & updates as needed.
 
-[===================(GTA5TunersGenZ Script (CURRENT CT VERSION: 3.5)==================]
+[===================(GTA5TunersGenZ Script (CURRENT CT VERSION: 3.5)==================]<br><br>
 
 ![35ct pic](https://user-images.githubusercontent.com/121238089/215269685-99fb7326-c929-4e38-801c-5f284ded47af.PNG)
 
