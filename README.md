@@ -22,10 +22,9 @@ This repository was created for contributors, programmers and users to be able t
 [===============================(INSTRUCTIONS)================================]
 
 [The version that works best for this script is 7.2 which is linked below.]
+[https://web.archive.org/web/20201105113906/https://github.com/cheat-engine/cheat-engine/releases/download/7.2/CheatEngine72.exe
 
-https://web.archive.org/web/20201105113906/https://github.com/cheat-engine/cheat-engine/releases/download/7.2/CheatEngine72.exe
-
-1. Download cheat engine from https://www.cheatengine.org/downloads.php or get 7.2 above.
+1. Download cheat engine from https://www.cheatengine.org/downloads.php or get 7.2 in web archive link above.
 2. Download the .CT file and put it into it's own directory, not in "Downloads".
 3. Double click the *.CT after installing "Cheat Engine" then run GTA5.
 
