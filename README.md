@@ -14,7 +14,7 @@ This repository was created for contributors, programmers and users to be able t
 
 [=======================================(Instructions)========================================]
 
-- This version works best with 7.2 Cheat Engine which is uploaded above.
+[The version that works best for this script is 7.2 which has been uploaded above.]
 
 1. Download cheat engine from https://www.cheatengine.org/downloads.php
 2. Download the .CT file and put it into it's own directory, not in "Downloads".
