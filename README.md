@@ -6,7 +6,7 @@ This open source script version is not as updated as our Discord Version, our Di
 
 You can find our discord version on Youtube by searching for tag @gta5tuners. There will be a link somewhere one of the videos.
 
-[============================(MISSION STATEMENT)===============================]
+[============================(MISSION STATEMENT)==============================]
 
 Original Link Location: 
 
@@ -27,7 +27,7 @@ This repository was created for contributors, programmers and users to be able t
 2. Download the .CT file and put it into it's own directory, not in "Downloads".
 3. Double click the *.CT after installing "Cheat Engine" then run GTA5.
 
-[=================================(Change Log)==================================]
+[===============================(Change Log)================================]
 
 [More change log information can be found at the "Original Link Location:" location listed above.]
 
