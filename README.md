@@ -1,6 +1,6 @@
 ![coollogo_com-86001204](https://user-images.githubusercontent.com/121238089/215266662-298b1de1-e38d-4a27-9e22-4cd2bce23735.png)
 
-[=======================================(READ FIRST)========================================]
+[=======================================(READ FIRST)=========================================]
 
 This open source script version is not as updated as our Discord Version, our Discord Version has way more features and optimization.
 
