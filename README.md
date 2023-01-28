@@ -47,11 +47,11 @@ This repository was created for contributors, programmers and users to be able t
 
 <h5>[More change log information can be found at the "Original Link Location:" location listed above]</h5>
 
-<h5>- (v3.5) Added temporary remote protection patch that's been bricking people's accounts. Google Tez2 remote exploit for more information.<br>
+<h6>- (v3.5) Added temporary remote protection patch that's been bricking people's accounts. Google Tez2 remote exploit for more information.<br>
 - (v3.5) Playerslist backend majorly modified to fix multiple issues and increase speed.<br>
 - (v3.5) Updated Important automated background timers for better speed and accuracy.<br>
 - (v3.5) Updated Playerslist to display smoother than previous versions and updated Playerslist display for Joined/Parted not to display at the same time on a reconnect.<br>
 - (v3.4) Added who is session host to Playerslist, MoHieDDiNNE updated get Player URL pictures to remove lag when selecting users.<br>
 - (v3.4) DMkiller added "Online Time Settings" and MoHieDDiNNE updated a "Refill Ammo" function provided by MoHieDDiNNE.<br>
 - (v3.4) More offsets added for Weapons, Vehicles, Vehicle Weapons and Stone Hatchet added.<br>
-- (v3.4) Playerslist updated for speed and to display safe money and added addtional buttons and features for ease of use.</h5>
+- (v3.4) Playerslist updated for speed and to display safe money and added addtional buttons and features for ease of use.</h6>
