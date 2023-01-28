@@ -20,7 +20,7 @@ This repository was created for contributors, programmers and users to be able t
 2. Download the .CT file and put it into it's own directory, not in "Downloads".
 3. Double click the *.CT after installing "Cheat Engine" then run GTA5.
 
-[=======================================(Change Log)=========================================]
+[=======================================(Change Log)========================================]
 
 More change log information can be found at the "Original Link Location:" location listed above.
 
