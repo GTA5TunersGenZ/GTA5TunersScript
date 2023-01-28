@@ -3,7 +3,7 @@
 <h5>[==============================(READ FIRST)=================================]<br><br>
 
 This open source script version is not as updated as our Discord Version, our Discord Version has way more features and optimization.<b5>
-You can find our discord version on Youtube by searching for tag @gta5tuners. There will be a link somewhere one of the videos.<br>
+You can find our discord version on Youtube by searching for tag @gta5tuners. There will be a link somewhere one of the videos.<br><br>
 
 [===========================(MISSION STATEMENT)=============================]<br><br>
 
@@ -17,7 +17,7 @@ This repository was created for contributors, programmers and users to be able t
 
 ![35ct pic](https://user-images.githubusercontent.com/121238089/215269685-99fb7326-c929-4e38-801c-5f284ded47af.PNG)<br><br>
 
-[==============================(INSTRUCTIONS)===============================]
+[==============================(INSTRUCTIONS)===============================]<br><br>
 
 [The version that works best for this script is 7.2 which is linked below.]<br>
 [https://web.archive.org/web/20201105113906/https://github.com/cheat-engine/cheat-engine/releases/download/7.2/CheatEngine72.exe]
