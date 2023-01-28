@@ -1,12 +1,12 @@
 ![coollogo_com-86001204](https://user-images.githubusercontent.com/121238089/215266662-298b1de1-e38d-4a27-9e22-4cd2bce23735.png)
 
-<h4>[==============================(READ FIRST)=================================]</h4>
+<h5>[==============================(READ FIRST)=================================]</h5>
 
 <h5>This open source script version is not as updated as our Discord Version, our Discord Version has way more features and optimization.
 
 You can find our discord version on Youtube by searching for tag @gta5tuners. There will be a link somewhere one of the videos.</h5>
 
-<h4>[===========================(MISSION STATEMENT)=============================]</h4>
+<h5>[===========================(MISSION STATEMENT)=============================]</h5>
 
 <h5>Original Link Location:</h5>
 
@@ -15,20 +15,20 @@ You can find our discord version on Youtube by searching for tag @gta5tuners. Th
 <h5>This repository will be used to distribute/share code and ideas for GTA5TunersGenZ script which started on unknowncheats.me years ago.
 This repository was created for contributors, programmers and users to be able to make changes, fixes, improvements & updates as needed.</h5>
 
-<h4>[===================(GTA5TunersGenZ Script (CURRENT CT VERSION: 3.5)==================]</h4>
+<h5>[===================(GTA5TunersGenZ Script (CURRENT CT VERSION: 3.5)==================]</h5>
 
 ![35ct pic](https://user-images.githubusercontent.com/121238089/215269685-99fb7326-c929-4e38-801c-5f284ded47af.PNG)
 
-<h4>[==============================(INSTRUCTIONS)===============================]</h4>
+<h5>[==============================(INSTRUCTIONS)===============================]</h5>
 
-<h4>[The version that works best for this script is 7.2 which is linked below.]</h4>
-<h4>[https://web.archive.org/web/20201105113906/https://github.com/cheat-engine/cheat-engine/releases/download/7.2/CheatEngine72.exe]</h4>
+<h5>[The version that works best for this script is 7.2 which is linked below.]</h5>
+<h5>[https://web.archive.org/web/20201105113906/https://github.com/cheat-engine/cheat-engine/releases/download/7.2/CheatEngine72.exe]</h5>
 
 <h5>1. Download cheat engine from https://www.cheatengine.org/downloads.php or get 7.2 in web archive link above.<br>
 2. Download the .CT file and put it into it's own directory, not in "Downloads".<br>
 3. Double click the *.CT after installing "Cheat Engine" then run GTA5.</h5>
 
-<h4>[================================(CREDITS)=================================]</h4>
+<h5>[================================(CREDITS)=================================]</h5>
 
 <h5>- GassyNull aka GNull (main)<br>
 - MoHieDDiNNE (main)<br>
@@ -44,7 +44,7 @@ This repository was created for contributors, programmers and users to be able t
 - dctrwhy (original)<br>
 - And all others who help to contribute on unknowncheats.me website!</h5>
 
-<h4>[=============================(CHANGE LOG)==================================]</h4>
+<h5>[=============================(CHANGE LOG)==================================]</h5>
 
 [More change log information can be found at the "Original Link Location:" location listed above]
 
