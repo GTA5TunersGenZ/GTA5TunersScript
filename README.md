@@ -6,7 +6,7 @@ This open source script version is not as updated as our Discord Version, our Di
 
 You can find our discord version on Youtube by searching for tag @gta5tuners. There will be a link somewhere one of the videos.
 
-[============================(MISSION STATEMENT)==============================]
+<h4>[============================(MISSION STATEMENT)==============================]</h4>
 
 Original Link Location: 
 
@@ -15,11 +15,11 @@ Original Link Location:
 This repository will be used to distribute/share code and ideas for GTA5TunersGenZ script which started on unknowncheats.me years ago.
 This repository was created for contributors, programmers and users to be able to make changes, fixes, improvements & updates as needed.
 
-[====================(GTA5TunersGenZ Script (CURRENT CT VERSION: 3.5)===================]
+<h4>[====================(GTA5TunersGenZ Script (CURRENT CT VERSION: 3.5)===================]</h4>
 
 ![35ct pic](https://user-images.githubusercontent.com/121238089/215269685-99fb7326-c929-4e38-801c-5f284ded47af.PNG)
 
-[===============================(INSTRUCTIONS)================================]
+<h4>[===============================(INSTRUCTIONS)================================]</h4>
 
 <h4>[The version that works best for this script is 7.2 which is linked below.]</h4>
 <h4>[https://web.archive.org/web/20201105113906/https://github.com/cheat-engine/cheat-engine/releases/download/7.2/CheatEngine72.exe]</h4>
@@ -28,7 +28,7 @@ This repository was created for contributors, programmers and users to be able t
 2. Download the .CT file and put it into it's own directory, not in "Downloads".
 3. Double click the *.CT after installing "Cheat Engine" then run GTA5.
 
-[=================================(CREDITS)==================================]
+<h4>[=================================(CREDITS)==================================]</h4>
 
 - GassyNull aka GNull (main)
 - MoHieDDiNNE (main)
@@ -44,7 +44,7 @@ This repository was created for contributors, programmers and users to be able t
 - dctrwhy (original)
 - And all others who help to contribute on unknowncheats.me website!
 
-[===============================(CHANGE LOG)==================================]
+<h4>[===============================(CHANGE LOG)==================================]</h4>
 
 [More change log information can be found at the "Original Link Location:" location listed above]
 
