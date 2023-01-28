@@ -6,7 +6,7 @@ This open source script version is not as updated as our Discord Version, our Di
 
 You can find our discord version on Youtube by searching for tag @gta5tuners. There will be a link somewhere one of the videos.
 
-[============================(MISSION STATEMENT)==============================]
+[============================(MISSION STATEMENT)===============================]
 
 Original Link Location: 
 
