@@ -1,10 +1,9 @@
 ![coollogo_com-86001204](https://user-images.githubusercontent.com/121238089/215266662-298b1de1-e38d-4a27-9e22-4cd2bce23735.png)
 
-<h6>[==============================(READ FIRST)=================================]<br>
+<h6>[==============================(READ FIRST)=================================]
 
-This open source script version is not as updated as our Discord Version, our Discord Version has way more features and optimization.
-
-You can find our discord version on Youtube by searching for tag @gta5tuners. There will be a link somewhere one of the videos.</h5>
+This open source script version is not as updated as our Discord Version, our Discord Version has way more features and optimization.<b5>
+You can find our discord version on Youtube by searching for tag @gta5tuners. There will be a link somewhere one of the videos.
 
 [===========================(MISSION STATEMENT)=============================]
 
