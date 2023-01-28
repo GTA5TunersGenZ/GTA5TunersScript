@@ -19,7 +19,7 @@ This repository was created for contributors, programmers and users to be able t
 
 ![35ct pic](https://user-images.githubusercontent.com/121238089/215264871-87de5b65-d15d-4197-86a8-6e6ef0ab3f61.PNG)
 
-[=================================(Instructions)==================================]
+[===============================(Instructions)================================]
 
 [The version that works best for this script is 7.2 which has been uploaded above.]
 
