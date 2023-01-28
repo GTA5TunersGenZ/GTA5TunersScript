@@ -21,7 +21,7 @@ This repository was created for contributors, programmers and users to be able t
 
 [===============================(INSTRUCTIONS)================================]
 
-[The version that works best for this script is 7.2 which has been uploaded above.]
+- The version that works best for this script is 7.2 which has been uploaded above.
 
 1. Download cheat engine from https://www.cheatengine.org/downloads.php or get 7.2 above.
 2. Download the .CT file and put it into it's own directory, not in "Downloads".
@@ -45,7 +45,7 @@ This repository was created for contributors, programmers and users to be able t
 
 [===============================(CHANGE LOG)=================================]
 
-[More change log information can be found at the "Original Link Location:" location listed above.]
+- More change log information can be found at the "Original Link Location:" location listed above.
 
 - (v3.5) Added temporary remote protection patch that's been bricking people's accounts. Google Tez2 remote exploit for more information.
 - (v3.5) Playerslist backend majorly modified to fix multiple issues and increase speed.
