@@ -2,9 +2,9 @@
 
 <h4>[==============================(READ FIRST)=================================]</h4>
 
-<h3>This open source script version is not as updated as our Discord Version, our Discord Version has way more features and optimization.
+<h5>This open source script version is not as updated as our Discord Version, our Discord Version has way more features and optimization.
 
-You can find our discord version on Youtube by searching for tag @gta5tuners. There will be a link somewhere one of the videos.</h3>
+You can find our discord version on Youtube by searching for tag @gta5tuners. There will be a link somewhere one of the videos.</h5>
 
 <h4>[===========================(MISSION STATEMENT)=============================]</h4>
 
