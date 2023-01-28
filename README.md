@@ -17,7 +17,7 @@ This repository was created for contributors, programmers and users to be able t
 
 [====================(GTA5TunersGenZ Script (CURRENT CT VERSION: 3.5)===================]
 
-![35ct pic](https://user-images.githubusercontent.com/121238089/215264871-87de5b65-d15d-4197-86a8-6e6ef0ab3f61.PNG)
+![35ct pic](https://user-images.githubusercontent.com/121238089/215269685-99fb7326-c929-4e38-801c-5f284ded47af.PNG)
 
 [===============================(INSTRUCTIONS)================================]
 
