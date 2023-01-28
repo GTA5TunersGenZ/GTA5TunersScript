@@ -46,7 +46,7 @@ This repository was created for contributors, programmers and users to be able t
 
 <h5>[=============================(CHANGE LOG)==================================]</h5>
 
-[More change log information can be found at the "Original Link Location:" location listed above]
+<h5>[More change log information can be found at the "Original Link Location:" location listed above]</h5>
 
 <h5>- (v3.5) Added temporary remote protection patch that's been bricking people's accounts. Google Tez2 remote exploit for more information.<br>
 - (v3.5) Playerslist backend majorly modified to fix multiple issues and increase speed.<br>
