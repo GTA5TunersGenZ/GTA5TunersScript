@@ -30,18 +30,18 @@ This repository was created for contributors, programmers and users to be able t
 
 <h4>[================================(CREDITS)=================================]</h4>
 
-<h5>- GassyNull aka GNull (main)
-- MoHieDDiNNE (main)
-- DMkiller (main)
-- BigBadWolfx77 (main support)
-- VemomKY (main support)
-- vladi023
-- Shirabrixx82
-- AureIn
-- booka7
-- hernaus
-- GTXFuryNano
-- dctrwhy (original)
+<h5>- GassyNull aka GNull (main)<br>
+- MoHieDDiNNE (main)<br>
+- DMkiller (main)<br>
+- BigBadWolfx77 (main support)<br>
+- VemomKY (main support)<br>
+- vladi023<br>
+- Shirabrixx82<br>
+- AureIn<br>
+- booka7<br>
+- hernaus<br>
+- GTXFuryNano<br>
+- dctrwhy (original)<br>
 - And all others who help to contribute on unknowncheats.me website!</h5>
 
 <h4>[=============================(CHANGE LOG)==================================]</h4>
