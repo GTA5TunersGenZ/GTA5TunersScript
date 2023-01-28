@@ -55,4 +55,4 @@ This repository was created for contributors, programmers and users to be able t
 - (v3.4) More offsets added for Weapons, Vehicles, Vehicle Weapons and Stone Hatchet added.<br>
 - (v3.4) Playerslist updated for speed and to display safe money and added addtional buttons and features for ease of use.</h5>
 
-<p style="font-size: 4px;">earch terms: GTA GTAV GTA5 modmenu modding</p>
+<p style="font-size: 1px;">Search terms: GTA GTAV GTA5 modmenu modding</p>
