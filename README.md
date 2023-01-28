@@ -8,6 +8,8 @@ You can find our discord version on Youtube by searching for tag @gta5tuners. Th
 
 [=======================================================================================]
 
+![GTATunersScript Logo](https://user-images.githubusercontent.com/121238089/215266600-aa0ace04-0984-44ba-8fea-e4ed68d8d9f3.png)
+
 Original Link Location: 
 (https://www.unknowncheats.me/forum/grand-theft-auto-v/474288-gtatunersscriptgenz-3-0-1-57-final-cut.html#post3273389)
 
