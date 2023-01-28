@@ -28,7 +28,20 @@ This repository was created for contributors, programmers and users to be able t
 3. Double click the *.CT after installing "Cheat Engine" then run GTA5.
 
 [=================================(CREDITS)==================================]
-<br><br>- GassyNull aka GNull (main) <br>- MoHieDDiNNE (main)<br>- DMkiller (main)<br>-  BigBadWolfx77<br>- VemomKY<br>- vladi023<br>- Shirabrixx82<br>- AureIn<br>- booka7<br>- hernaus<br>- GTXFuryNano<br>- dctrwhy (original)<br>- And all others who help to contribute on unknowncheats.me website!
+
+- GassyNull aka GNull (main)
+- MoHieDDiNNE (main)
+- DMkiller (main)
+- BigBadWolfx77 (main support)
+- VemomKY (main support)
+- vladi023
+- Shirabrixx82
+- AureIn
+- booka7
+- hernaus
+- GTXFuryNano
+- dctrwhy (original)
+- And all others who help to contribute on unknowncheats.me website!
 
 [===============================(CHANGE LOG)=================================]
 
