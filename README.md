@@ -1,7 +1,5 @@
 ![coollogo_com-86001204](https://user-images.githubusercontent.com/121238089/215266662-298b1de1-e38d-4a27-9e22-4cd2bce23735.png)
 
-![35ct pic](https://user-images.githubusercontent.com/121238089/215264871-87de5b65-d15d-4197-86a8-6e6ef0ab3f61.PNG)
-
 GTA5TunersScript (Current 3.5.ct Version) 
 
 [=======================================(READ FIRST)========================================]
