@@ -5,7 +5,7 @@
 This open source script version is not as updated as our Discord Version, our Discord Version has way more features and optimization.<b5>
 You can find our discord version on Youtube by searching for tag @gta5tuners. There will be a link somewhere one of the videos.<br>
 
-[===========================(MISSION STATEMENT)=============================]
+[===========================(MISSION STATEMENT)=============================]<br><br>
 
 Original Link Location:<br>
 (https://www.unknowncheats.me/forum/grand-theft-auto-v/474288-gtatunersscriptgenz-3-0-1-57-final-cut.html#post3273389)
@@ -24,9 +24,9 @@ This repository was created for contributors, programmers and users to be able t
 
 [1. Download cheat engine from https://www.cheatengine.org/downloads.php or get 7.2 in web archive link above.]<br>
 [2. Download the .CT file and put it into it's own directory, not in "Downloads".]<br>
-[3. Double click the *.CT after installing "Cheat Engine" then run GTA5.]
+[3. Double click the *.CT after installing "Cheat Engine" then run GTA5.]<br><br>
 
-[================================(CREDITS)=================================]
+[================================(CREDITS)=================================]<br><br>
 
 - GassyNull aka GNull (main)<br>
 - MoHieDDiNNE (main)<br>
@@ -40,11 +40,11 @@ This repository was created for contributors, programmers and users to be able t
 - hernaus<br>
 - GTXFuryNano<br>
 - dctrwhy (original)<br>
-- And all others who help to contribute on unknowncheats.me website!
+- And all others who help to contribute on unknowncheats.me website!<br><br>
 
-[=============================(CHANGE LOG)==================================]
+[=============================(CHANGE LOG)==================================]<br><br>
 
-[More change log information can be found at the "Original Link Location:" location listed above]
+[More change log information can be found at the "Original Link Location:" location listed above]<br><br>
 
 - (v3.5) Added temporary remote protection patch that's been bricking people's accounts. Google Tez2 remote exploit for more information.<br>
 - (v3.5) Playerslist backend majorly modified to fix multiple issues and increase speed.<br>
