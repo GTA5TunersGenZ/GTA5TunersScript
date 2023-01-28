@@ -1,6 +1,6 @@
 ![coollogo_com-86001204](https://user-images.githubusercontent.com/121238089/215266662-298b1de1-e38d-4a27-9e22-4cd2bce23735.png)
 -
-<h5>[==============================(READ FIRST)=================================]<br><br><br>
+<h5><center>[==============================(READ FIRST)=================================]<br><br><br></center>
 
 This open source script version is not as updated as our Discord Version, our Discord Version has way more features and optimizations.<b5>
 You can find our discord version on Youtube by searching for tag @gta5tuners. There will be a link somewhere in one of the videos.<br><br>
