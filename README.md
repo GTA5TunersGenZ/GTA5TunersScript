@@ -1,3 +1,4 @@
+<p align="center">
 ![coollogo_com-86001204](https://user-images.githubusercontent.com/121238089/215266662-298b1de1-e38d-4a27-9e22-4cd2bce23735.png)
 -
 <h5>[==============================(READ FIRST)=================================]<br><br><br>
@@ -53,4 +54,4 @@ This repository was created for contributors, programmers and users to be able t
 - (v3.4) Added who is session host to Playerslist, MoHieDDiNNE updated get Player URL pictures to remove lag when selecting users.<br>
 - (v3.4) DMkiller added "Online Time Settings" and MoHieDDiNNE updated a "Refill Ammo" function provided by MoHieDDiNNE.<br>
 - (v3.4) More offsets added for Weapons, Vehicles, Vehicle Weapons and Stone Hatchet added.<br>
-- (v3.4) Playerslist updated for speed and to display safe money and added addtional buttons and features for ease of use.</h5>
+- (v3.4) Playerslist updated for speed and to display safe money and added addtional buttons and features for ease of use.</h5></p>
