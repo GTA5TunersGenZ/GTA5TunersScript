@@ -6,11 +6,11 @@ This repository will be used to distribute/share code and ideas for GTA5TunersGe
 This repository was created for contributors, programmers and users to be able to make changes, fixes, improvements & updates as needed on the fly.
 
 ** This open source script version that is not as updated as our Discord version, our discord version has way more features and optimization.**
-** You can find our discord version on Youtube by searching for tag @gta5tuners. There will be a link somewhere on a video for the discord version. **
+** You can find our discord version on Youtube by searching for tag @gta5tuners. There will be a link somewhere one of the videos. **
 
 ![35ct pic](https://user-images.githubusercontent.com/121238089/215264871-87de5b65-d15d-4197-86a8-6e6ef0ab3f61.PNG)
 
-[====================================================(Instructions)======================================================]
+[=================================================(Instructions)===================================================]
 
 This version works best with 7.2 Cheat Engine which is uploaded above.
 
@@ -18,7 +18,7 @@ This version works best with 7.2 Cheat Engine which is uploaded above.
 2. Download the .CT file and put it into it's own directory, not in "Downloads".
 3. Double click the *.CT after installing "Cheat Engine" then run GTA5.
 
-[======================================================(Change Log)======================================================]
+[===================================================(Change Log)===================================================]
 
 More change log information can be found at the "Original Link Location:" location listed above.
 
