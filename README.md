@@ -43,7 +43,7 @@ This repository was created for contributors, programmers and users to be able t
 - dctrwhy (original)
 - And all others who help to contribute on unknowncheats.me website!
 
-[===============================(CHANGE LOG)=================================]
+[===============================(CHANGE LOG)==================================]
 
 [More change log information can be found at the "Original Link Location:" location listed above]
 
