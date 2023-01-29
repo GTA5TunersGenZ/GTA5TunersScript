@@ -47,7 +47,7 @@ This repository was created for contributors, programmers and users to be able t
 
 [More change log information can be found at the "Original Link Location:" location listed above.]<br><br>
 
-- (v3.5) Added "CarPics Toggle" to Playerslist menu and "Control Center" and updated the pictures to select from.
+- (v3.5) Added "CarPic Toggle" to Playerslist menu and "Control Center" and updated the pictures to select from.
 - (v3.5) Added temporary remote protection patch that's been bricking people's accounts. Google Tez2 remote exploit for more information.<br>
 - (v3.5) Playerslist backend majorly modified to fix multiple issues and increase speed.<br>
 - (v3.5) Updated Important automated background timers for better speed and accuracy.<br>
