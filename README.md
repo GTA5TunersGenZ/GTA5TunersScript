@@ -33,7 +33,7 @@ This repository was created for contributors, programmers and users to be able t
 - MoHieDDiNNE (main)<br>
 - DMkiller (main)<br>
 - BigBadWolfx77 (main support)<br>
-- VemomKY (main support)<br>
+- VenomKY (main support)<br>
 - vladi023<br>
 - Shirabrixx82<br>
 - AureIn<br>
