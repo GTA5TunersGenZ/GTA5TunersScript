@@ -44,7 +44,7 @@ This repository was created for contributors, programmers and users to be able t
 
 [=============================(CHANGE LOG)==================================]<br><br>
 
-[More change log information can be found at the "Original Link Location:" location listed above.]<br><br>
+[More change log information can be found at the "O(<a href="https://www.unknowncheats.me/forum/grand-theft-auto-v/474288-gtatunersscriptgenz-3-0-1-57-final-cut.html#post3273389">Original Thread Location</a>)" location listed above.]<br><br>
 
 - (v3.6) Many updates and fixes, you can use WinMerge to compare (v3.5 to v3.6) to see the major updates applied!
 - (v3.6) Major backend updated for "Control Center" and "Quick Car". Code was modified heavily for speed/accuracy.
