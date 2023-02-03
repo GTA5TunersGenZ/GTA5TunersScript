@@ -1,5 +1,3 @@
-<H1> THIS IS OUTDATED! GTA5 RELEASED A PATCH: https://support.rockstargames.com/articles/13577231779475/GTAV-Title-Update-1-66-Notes-PC </H1>
-
 ![coollogo_com-86001204](https://user-images.githubusercontent.com/121238089/215266662-298b1de1-e38d-4a27-9e22-4cd2bce23735.png)
 -
 <h5>[==============================(READ FIRST)=================================]<br><br><br>
@@ -11,12 +9,13 @@ You can find our discord version on Youtube by searching for tag @gta5tuners. Th
  [===========================(MISSION STATEMENT)=============================]<br><br>
 
 Original Link Location:<br>
-(https://www.unknowncheats.me/forum/grand-theft-auto-v/474288-gtatunersscriptgenz-3-0-1-57-final-cut.html#post3273389)
+(https://www.unknowncheats.me/forum/grand-theft-auto-v/474288-gtatunersscriptgenz-3-0-1-57-final-cut.html#post3273389)      Cancel changes
+
 
 This repository will be used to distribute/share code and ideas for GTA5TunersGenZ script which started on unknowncheats.me years ago.
 This repository was created for contributors, programmers and users to be able to make changes, fixes, improvements & updates as needed.<br><br>
   
-[====================(GTA5TunersGenZ Script - CURRENT CT VERSION: 3.5)===================]<br><br>
+[=================(GTA5TunersGenZ Script - CURRENT CT VERSION: 3.6 DLC: 1.66)================]<br><br>
 
 ![35ct pic](https://user-images.githubusercontent.com/121238089/215269685-99fb7326-c929-4e38-801c-5f284ded47af.PNG)<br><br>
 
@@ -49,6 +48,9 @@ This repository was created for contributors, programmers and users to be able t
 
 [More change log information can be found at the "Original Link Location:" location listed above.]<br><br>
 
+- (v3.6) Many updates and fixes, you can use WinMerge to compare (v3.5 to v3.6) to see the major updates applied!
+- (v3.6) Major backend updated for "Control Center" and "Quick Car". Code was modified heavily for speed/accuracy.
+- (v3.6) Major scripts updates, anything labeled <script> has been modified under "Main Table", right-click and compare to previous version.
 - (v3.5) Added "CarPic Toggle" to Playerslist menu and "Control Center" and updated the pictures to select from.
 - (v3.5) Added temporary remote protection patch that's been bricking people's accounts. Google Tez2 remote exploit for more information.<br>
 - (v3.5) Playerslist backend majorly modified to fix multiple issues and increase speed.<br>
