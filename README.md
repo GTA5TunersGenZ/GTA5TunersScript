@@ -2,7 +2,7 @@
 -
 <h5>[==============================(READ FIRST)=================================]<br><br><br>
 
-This project may be ending soon, considering donating here as we would like to keep it running but are very busy, a little incentive can help us keep it going longer: (<a href=-"https://www.paypal.com/donate/?hosted_button_id=NYRRFFPLHEMXE">Donate now! Thanks!</a>) 
+This project may be ending soon, considering donating here as we would like to keep it running but are very busy, a little incentive can help us keep it going longer: (<a href="https://www.paypal.com/donate/?hosted_button_id=NYRRFFPLHEMXE">Donate now! Thanks!</a>) 
 Leave your name/email, you will receive a thank you and the latest updates first!
 This open source GTA 5 modmenu script version is not as updated as our Discord Version.<br>
 Our Discord Version has way more features and optimizations!<br>
@@ -15,7 +15,7 @@ Original Link Location: (<a href="https://www.unknowncheats.me/forum/grand-theft
 This repository will be used to distribute/share code and ideas for GTA5TunersGenZ script which started on unknowncheats.me years ago.
 This repository was created for contributors, programmers and users to be able to make changes, fixes, improvements & updates as needed.<br><br>
   
-[===============(GTA5TunersGenZ Script - CURRENT CT VERSION: 3.6b2 DLC: 1.66)==============]<br><br>
+[===============(GTA5TunersGenZ Script - CURRENT CT VERSION: 3.6b3 DLC: 1.66)==============]<br><br>
 
 ![35ct pic](https://user-images.githubusercontent.com/121238089/215269685-99fb7326-c929-4e38-801c-5f284ded47af.PNG)<br><br>
 
