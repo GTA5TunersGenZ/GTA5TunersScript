@@ -2,7 +2,7 @@
 -
 <h5>[==============================(READ FIRST)=================================]<br><br><br>
 
-This project may be ending soon, consider donating here as we would like to keep it running but are very busy, a little incentive can help us keep it going longer: (<a href="https://www.paypal.com/donate/?hosted_button_id=NYRRFFPLHEMXE">Donate now! Thanks!</a>) 
+This project may be ending soon, consider donating as we would like to keep it running but are very busy, a little incentive can help us keep it going longer: (<a href="https://www.paypal.com/donate/?hosted_button_id=NYRRFFPLHEMXE">Donate now! Thanks!</a>) 
 Leave your name/email when donating, you will receive a thank you and the latest updates first and suggestion options to add!<br> The discord version will probably last a little longer btw but to keep both versions going can take much time.<br><br>
 This open source GTA 5 modmenu script version is not as updated as our Discord Version.<br>
 Our Discord Version has way more features and optimizations!<br>
