@@ -4,7 +4,7 @@
 
 USE CHEAT ENGINE (v7.2-v7.4) FOR THIS .CT AND DO NOT USE (v7.5), there are known ISSUES! 
 Maybe we will fix the issues soon or if you do, you can updated us! The LINK for (CE v7.2) is below under (Instructions)!
-If you choose to use (v7.5) you will have issues with Playerslist and maybe others!
+If you choose to use (v7.5), you will have issues with Playerslist and maybe others!
 
 This open source GTA 5 modmenu script version is not as updated as our Discord Version.<br>
 Our Discord Version has way more features and optimizations!<br>
