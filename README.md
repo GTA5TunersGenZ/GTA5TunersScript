@@ -26,7 +26,7 @@ This repository was created for contributors, programmers and users to be able t
 [The version that works best for this script is 7.2 which is linked below.]<br>
 (https://web.archive.org/web/20201105113906/https://github.com/cheat-engine/cheat-engine/releases/download/7.2/CheatEngine72.exe)
 
-USE (v7.2) link above, (v7.5) has issues! If you choose to use (v7.5) you will have issues with Playerslist and maybe others!
+[USE (v7.2) link above, (v7.5) has issues! If you choose to use (v7.5) you will have issues with Playerslist and maybe others!]
 
 [1. Download Cheat Engine from https://www.cheatengine.org/downloads.php or get 7.2 in web archive link above.]<br>
 [2. Download the .CT file and put it into it's own directory, not in "Downloads".]<br>
