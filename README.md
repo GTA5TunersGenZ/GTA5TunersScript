@@ -2,7 +2,7 @@
 -
 <h5>[==============================(READ FIRST)=================================]<br><br><br>
 
-USE CHEAT ENGINE (v7.2) FOR THIS .CT AND DO NOT USE (v7.5), there are known ISSUES! 
+USE CHEAT ENGINE (v7.2-v7.4) FOR THIS .CT AND DO NOT USE (v7.5), there are known ISSUES! 
 Maybe we will fix the issues soon or if you do, you can updated us! The LINK for (CE v7.2) is below under (Instructions)!
 If you choose to use (v7.5) you will have issues with Playerslist and maybe others!
 
@@ -26,7 +26,7 @@ This repository was created for contributors, programmers and users to be able t
 [The version that works best for this script is 7.2 which is linked below.]<br>
 (https://web.archive.org/web/20201105113906/https://github.com/cheat-engine/cheat-engine/releases/download/7.2/CheatEngine72.exe)
 
-[USE (v7.2) link above, (v7.5) has issues! If you choose to use (v7.5) you will have issues with Playerslist and maybe others!]
+[USE (v7.2-v7.4) link above, (v7.5) has issues! If you choose to use (v7.5) you will have issues with Playerslist and maybe others!]
 
 [1. Download Cheat Engine from https://www.cheatengine.org/downloads.php or get 7.2 in web archive link above.]<br>
 [2. Download the .CT file and put it into it's own directory, not in "Downloads".]<br>
