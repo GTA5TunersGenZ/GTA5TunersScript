@@ -2,7 +2,7 @@
 -
 <h5>[==============================(READ FIRST)=================================]<br><br><br>
 
-USE CHEAT ENGINE (v7.2) FOR THIS .CT. DO NOT USE (V7.5), there are know ISSUES! Maybe we will fix the issues or if you do you can updated us! The LINK for (v7.2) is below under (Instructions)!
+USE CHEAT ENGINE (v7.2) FOR THIS .CT AND DO NOT USE (V7.5), there are know ISSUES! Maybe we will fix the issues or if you do you can updated us! The LINK for (v7.2) is below under (Instructions)!
 
 This open source GTA 5 modmenu script version is not as updated as our Discord Version.<br>
 Our Discord Version has way more features and optimizations!<br>
