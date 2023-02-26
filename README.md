@@ -52,7 +52,7 @@ This repository was created for contributors, programmers and users to be able t
 
 [More change log information can be found at the <a href="https://www.unknowncheats.me/forum/grand-theft-auto-v/474288-gtatunersscriptgenz-3-0-1-57-final-cut.html#post3273389">(Original Thread Location)</a>.]<br><br>
 
-
+- (v3.6b4) Updated to be compatible with Cheat Engine (v7.5). Version b3 and below was not compatible with CE 7.5 but rather (v7.2 through v7.4).
 - (v3.6b3) Issues found using threaded timers, they don't appear to be stable. This final release will make looped timers more stable via "UseCreateTimer" option added.
 - (v3.6b2) Just added an extra check for unlimited boost and quickcar to ensure values are not nil.
 - (v3.6b1) VenomKY updated Saved Outfits Expanded Version along with MoHieDDiNNE's major code optimizations and GNull's finalization.
