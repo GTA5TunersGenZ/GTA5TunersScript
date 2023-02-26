@@ -2,7 +2,7 @@
 -
 <h5>[==============================(READ FIRST)=================================]<br><br><br>
 
-USE CHEAT ENGINE (v7.2) FOR THIS .CT AND DO NOT USE (V7.5), there are known ISSUES! 
+USE CHEAT ENGINE (v7.2) FOR THIS .CT AND DO NOT USE (v7.5), there are known ISSUES! 
 Maybe we will fix the issues soon or if you do, you can updated us! The LINK for (CE v7.2) is below under (Instructions)!
 If you choose to use (v7.5) you will have issues with Playerslist and maybe others!
 
