@@ -13,7 +13,7 @@ Original Link Location: (<a href="https://www.unknowncheats.me/forum/grand-theft
 This repository will be used to distribute/share code and ideas for GTA5TunersGenZ script which started on unknowncheats.me years ago.
 This repository was created for contributors, programmers and users to be able to make changes, fixes, improvements & updates as needed.<br><br>
   
-[===============(GTA5TunersGenZ Script - CURRENT CT VERSION: 3.7 DLC: 1.66)==============]<br><br>
+[===============(GTA5TunersGenZ Script - CURRENT CT VERSION: 3.7p1 DLC: 1.66)==============]<br><br>
 
 ![35ct pic](https://user-images.githubusercontent.com/121238089/215269685-99fb7326-c929-4e38-801c-5f284ded47af.PNG)<br><br>
 
