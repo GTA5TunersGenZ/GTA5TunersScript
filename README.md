@@ -13,7 +13,7 @@ Original Link Location: (<a href="https://www.unknowncheats.me/forum/grand-theft
 This repository will be used to distribute/share code and ideas for GTA5TunersGenZ script which started on unknowncheats.me years ago.
 This repository was created for contributors, programmers and users to be able to make changes, fixes, improvements & updates as needed.<br><br>
   
-[===============(GTA5TunersGenZ Script - CURRENT CT VERSION: 3.7p1 DLC: 1.66)==============]<br><br>
+[===============(GTA5TunersGenZ Script - CURRENT CT VERSION: 3.8 DLC: 1.66)==============]<br><br>
 
 ![35ct pic](https://user-images.githubusercontent.com/121238089/215269685-99fb7326-c929-4e38-801c-5f284ded47af.PNG)<br><br>
 
@@ -46,6 +46,10 @@ This repository was created for contributors, programmers and users to be able t
 
 [More change log information can be found at the <a href="https://www.unknowncheats.me/forum/grand-theft-auto-v/474288-gtatunersscriptgenz-3-0-1-57-final-cut.html#post3273389">(Original Thread Location)</a>.]<br><br>
 
+- (v3.8) Untamo's Outfit menu updated by VenomKy to add "Load" / "Save" buttons, added to "All menus".
+- (v3.8) Changed font size for Playerslist Menu and Protections menu to smaller and bolder.
+- (v3.8) VenomKy found issue with previous setStat function, setStat function has been updated.
+- (v3.8) DMkiller found error with run_antiIdle function not setting a few correct values as matched in decompiled scripts.
 - (v3.7) Added Untamo's Outfit GUI editor under "Outfit Editors", for now VenomKY version has (save / load) (to / from) file so for now use Save/Load from that version.
 - (v3.7) Updated Drug Wars Unlocks globals which shifted by 1.
 - (v3.6b4) Updated to be compatible with Cheat Engine (v7.5). Version b3 and below was not compatible with CE 7.5 but rather (v7.2 through v7.4).
