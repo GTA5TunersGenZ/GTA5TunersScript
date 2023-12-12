@@ -1,6 +1,6 @@
 ![coollogo_com-86001204](https://user-images.githubusercontent.com/121238089/215266662-298b1de1-e38d-4a27-9e22-4cd2bce23735.png)
 -
-<h5>!!!!!!!!!!!!!!!!! This is currently outdated since 1.68 DLC !!!!!!!!!!!!!!!!! </h5>
+<h5>!!!!!!!!!!!!!!!!! THIS IS CURRENTLY OUTDATED AS OF 1.68 DLC !!!!!!!!!!!!!!!!! </h5>
 -
 <h5>[==============================(READ FIRST)=================================]<br><br><br>
 
