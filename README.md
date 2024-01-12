@@ -1,6 +1,6 @@
 ![coollogo_com-86001204](https://user-images.githubusercontent.com/121238089/215266662-298b1de1-e38d-4a27-9e22-4cd2bce23735.png)
 -
-<h5>!!!!!!!!!!!!!!!!! THIS IS CURRENTLY OUTDATED AS OF 1.68 DLC! OUR DISCORD VERSION WILL BE UPDATED FIRST<BR><BR>Please see here for now: https://www.unknowncheats.me/forum/3960077-post884.html !!!!!!!!!!!!!!!!! 
+<h5>!!!!!!!!!!!!!!!!! THIS IS CURRENTLY OUTDATED AS OF 1.68 DLC! OUR DISCORD VERSION WILL BE UPDATED FIRST !!!!!!!!!!!!!!!!!<BR><BR>!!!!!!!!!!!!!!!!! Please see here for now: https://www.unknowncheats.me/forum/3960077-post884.html !!!!!!!!!!!!!!!!! 
 </h5>
 <h5>[==============================(READ FIRST)=================================]<br><br><br>
 
