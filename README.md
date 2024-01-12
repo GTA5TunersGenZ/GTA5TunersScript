@@ -2,7 +2,7 @@
 -
 <h5>!!!!!!!!!!!!!!!!! THIS IS CURRENTLY OUTDATED AS OF 1.68 DLC! OUR DISCORD VERSION WILL BE UPDATED FIRST !!!!!!!!!!!!!!!!!<BR><BR>Please see here for now: https://www.unknowncheats.me/forum/3960077-post884.html
 </h5>
-<h5>[==============================(READ FIRST)=================================]<br><br><br>
+<h5>!!!!!!!!!!!!!!!!!  [==============================(READ FIRST)=================================] !!!!!!!!!!!!!!!!!<br><br><br>
 
 This open source GTA 5 modmenu script version is not as updated as our Discord Version.<br>
 Our Discord Version has way more features and optimizations!<br>
