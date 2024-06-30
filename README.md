@@ -50,6 +50,7 @@ This repository was created for contributors, programmers and users to be able t
 
 [More change log information can be found at the <a href="https://www.unknowncheats.me/forum/grand-theft-auto-v/474288-gtatunersscriptgenz-3-0-1-57-final-cut.html#post3273389">(Original Thread Location)</a>.]<br><br>
 
+- (v4.3) Simple old school update for GTA5 DLC 1.69, this version is very outdated, get our advanced version now! GNull Tuners on youtube!"
 - (v4.2p1) Added instruction links for Outfit editor under "Outfit Editors/Sorted Instructions..".
 - (v4.2p1) Patched 2 issues with previous version with "Stop Cutscene" and a Playerslist issue testing for -1 index.
 - (v4.2p1) Updated for v1.67
