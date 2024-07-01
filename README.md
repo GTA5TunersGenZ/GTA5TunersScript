@@ -21,7 +21,7 @@ This repository was created for contributors, programmers and users to be able t
 
 [==============================(INSTRUCTIONS)===============================]<br><br>
 
-[The version that works best for this script is 7.2 which is linked below.]<br>
+[The version that works best for this script is 7.2 which is linked below however 7.5 should work as well!]<br>
 (https://web.archive.org/web/20201105113906/https://github.com/cheat-engine/cheat-engine/releases/download/7.2/CheatEngine72.exe)
 
 [1. Download Cheat Engine from https://www.cheatengine.org/downloads.php or get 7.2 in web archive link above.]<br>
