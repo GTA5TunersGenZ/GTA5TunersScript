@@ -23,7 +23,7 @@ This repository was created for contributors, programmers and users to be able t
 
 [The version that works best for this script is 7.2 which is linked below however 7.5 should work as well from<br>
 
-(<a href="https://www.cheatengine.org/downloads.php" target="_blank">Latest 7.5+ Cheat Engine Download Here</a>) 
+(<a href="https://www.cheatengine.org/downloads.php" target="_blank">Latest 7.5+ Cheat Engine Download Here</a>)<br> 
 (<a href="https://web.archive.org/web/20201105113906/https://github.com/cheat-engine/cheat-engine/releases/download/7.2/CheatEngine72.exe" target="_blank">Best 7.2 Compatible Version Here</a>)
 
 [1. Download Cheat Engine from https://www.cheatengine.org/downloads.php or get 7.2 in web archive link above.]<br>
