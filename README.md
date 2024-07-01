@@ -10,7 +10,7 @@ You can find our discord version on Youtube by searching for tag @gta5tuners. Th
 
  [===========================(MISSION STATEMENT)==============================]<br><br>
 
-Original Link Location: (<a href="https://www.unknowncheats.me/forum/grand-theft-auto-v/474288-gtatunersscriptgenz-3-0-1-57-final-cut.html#post3273389" target="_blank">Original Thread Location</a>)
+Original Link Location: (<a href="https://www.unknowncheats.me/forum/grand-theft-auto-v/474288-gtatunersscriptgenz-3-0-1-57-final-cut.html#post3273389" target="_blank">[Original Thread Location](https://web.archive.org/web/20201105113906/https://github.com/cheat-engine/cheat-engine/releases/download/7.2/CheatEngine72.exe)</a>)
 
 This repository will be used to distribute/share code and ideas for GTA5TunersGenZ script which started on unknowncheats.me years ago.
 This repository was created for contributors, programmers and users to be able to make changes, fixes, improvements & updates as needed.<br><br>
@@ -21,8 +21,10 @@ This repository was created for contributors, programmers and users to be able t
 
 [==============================(INSTRUCTIONS)===============================]<br><br>
 
-[The version that works best for this script is 7.2 which is linked below however 7.5 should work as well!]<br>
-(https://web.archive.org/web/20201105113906/https://github.com/cheat-engine/cheat-engine/releases/download/7.2/CheatEngine72.exe)
+[The version that works best for this script is 7.2 which is linked below however 7.5 should work as well from<br>
+
+(<a href="https://www.cheatengine.org/downloads.php" target="_blank">Latest 7.5+ Cheat Engine Download Here</a>) 
+(<a href="https://web.archive.org/web/20201105113906/https://github.com/cheat-engine/cheat-engine/releases/download/7.2/CheatEngine72.exe" target="_blank">Best 7.2 Compatible Version Here</a>)
 
 [1. Download Cheat Engine from https://www.cheatengine.org/downloads.php or get 7.2 in web archive link above.]<br>
 [2. Download the .CT file and put it into it's own directory, not in "Downloads".]<br>
