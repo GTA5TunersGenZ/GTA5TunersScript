@@ -1,6 +1,6 @@
 ![coollogo_com-86001204](https://user-images.githubusercontent.com/121238089/215266662-298b1de1-e38d-4a27-9e22-4cd2bce23735.png)
 -
-<h5>GTA5TunersGenZ 4.30 UC link: (<a href="https://www.unknowncheats.me/forum/grand-theft-auto-v/645136-gta5tunersgenz-4-3-a.html" target="_blank">UC Source Thread</a>) Updated for (DLC 1.69 on 6/30/24)!
+<h5>GTA5TunersGenZ 4.31 UC link: (<a href="https://www.unknowncheats.me/forum/grand-theft-auto-v/645136-gta5tunersgenz-4-3-a.html" target="_blank">UC Source Thread</a>) Updated for (DLC 1.69 on 6/30/24)!
 </h5>
 <h5>[==============================(READ FIRST)=================================]<br><br><br>
 
@@ -15,7 +15,7 @@ Original Link Location: (<a href="https://www.unknowncheats.me/forum/grand-theft
 This repository will be used to distribute/share code and ideas for GTA5TunersGenZ script which started on unknowncheats.me years ago.
 This repository was created for contributors, programmers and users to be able to make changes, fixes, improvements & updates as needed.<br><br>
   
-[===============(GTA5TunersGenZ Script - CURRENT CT VERSION: 4.3 DLC: 1.69)==============]<br><br>
+[===============(GTA5TunersGenZ Script - CURRENT CT VERSION: 4.31 DLC: 1.69)==============]<br><br>
 
 ![35ct pic](https://user-images.githubusercontent.com/121238089/215269685-99fb7326-c929-4e38-801c-5f284ded47af.PNG)<br><br>
 
@@ -52,7 +52,8 @@ This repository was created for contributors, programmers and users to be able t
 
 [More change log information can be found at the <a href="https://www.unknowncheats.me/forum/grand-theft-auto-v/474288-gtatunersscriptgenz-3-0-1-57-final-cut.html#post3273389">(Original Thread Location)</a>.]<br><br>
 
-- (v4.3) Simple old school update for GTA5 DLC 1.69, this version is very outdated, get our advanced version now! GNull Tuners on youtube!"
+- (v4.31) MoHiEDDiNNE fixed issue in bunker money mission time.
+- (v4.30) Simple old school update for GTA5 DLC 1.69, this version is very outdated, get our advanced version now! GNull Tuners on youtube!"
 - (v4.2p1) Added instruction links for Outfit editor under "Outfit Editors/Sorted Instructions..".
 - (v4.2p1) Patched 2 issues with previous version with "Stop Cutscene" and a Playerslist issue testing for -1 index.
 - (v4.2p1) Updated for v1.67
