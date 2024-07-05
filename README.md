@@ -50,7 +50,7 @@ This repository was created for contributors, programmers and users to be able t
 
 [=============================(CHANGE LOG)==================================]<br><br>
 
-[More change log information can be found at the <a href="https://www.unknowncheats.me/forum/grand-theft-auto-v/474288-gtatunersscriptgenz-3-0-1-57-final-cut.html#post3273389">(Original Thread Location)</a>.]<br><br>
+[More change log information can be found at the <a href="[https://www.unknowncheats.me/forum/grand-theft-auto-v/474288-gtatunersscriptgenz-3-0-1-57-final-cut.html#post3273389">(Original Thread Location)</a>.]<br><br>
 
 - (v4.31) MoHiEDDiNNE fixed issue in bunker money mission time.
 - (v4.30) Simple old school update for GTA5 DLC 1.69, this version is very outdated, get our advanced version now! GNull Tuners on youtube!"
